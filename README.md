@@ -1,4 +1,5 @@
-# geofinanzas<!DOCTYPE html>
+# geofinanzas
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta name="apple-mobile-web-app-capable" content="yes">
